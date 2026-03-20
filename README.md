@@ -1,3 +1,1 @@
-# FuFu-Official
-
 Hi there 👋
